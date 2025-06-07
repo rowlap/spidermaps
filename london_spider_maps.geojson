@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1233, 51.5308]
+      },
+      "properties": {
+        "id": "kings-cross",
+        "name": "King's Cross",
+        "url": "https://content.tfl.gov.uk/bus-route-maps/kings-cross-a4-300121.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1286, 51.5983]
+      },
+      "properties": {
+        "id": "alexandra-palace",
+        "name": "Alexandra Palace",
+        "url": "https://content.tfl.gov.uk/bus-route-maps/alexandra-palace-a4-190816.pdf"
+      }
+    }
+  ]
+}
