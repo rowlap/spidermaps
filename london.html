@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>London Spider Map Viewer</title>
+  <title>🕷️ London Bus Spider Map Viewer</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
@@ -21,6 +21,15 @@
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
 
+    function popupHTML(properties) {
+        let html = `<strong>${properties.name}</strong><br>`;
+        html += `<a href="${properties.url}" target="_blank">View map</a>`;
+        if (properties.url_night) {
+            html += `<br><a href="${properties.url_night}" target="_blank">🌙 View night map</a>`;
+        }
+        return html;
+    }
+
     // Load external GeoJSON file
     fetch('london_spider_maps.geojson')
       .then(response => response.json())
@@ -30,7 +39,8 @@
             const props = feature.properties;
             const name = props.name || 'Unnamed';
             const url = props.url || '#';
-            layer.bindPopup(`<strong>${name}</strong><br><a href="${url}" target="_blank">View Map</a>`);
+            layer.bindPopup(popupHTML(feature.properties));
+            layer.bindTooltip(`${name}`);
           }
         }).addTo(map);
       })
