@@ -7,19 +7,28 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
     #map { height: 100vh; }
+    #loading-fallback { font-size: 200%; }
   </style>
 </head>
 <body>
-  <div id="map"></div>
+  <div id="map">
+    <span id="loading-fallback">
+      If everything's working, a map will appear here shortly... <br/>
+      If not, please check the browser console.
+    </span>
+  </div>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
     // Initialize map centered on London
-    var map = L.map('map').setView([51.5074, -0.1278], 11);
+    const map = L.map('map').setView([51.5074, -0.1278], 11);
 
     // Add OpenStreetMap tile layer
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
+
+    // Remove the loading message now that Leaflet is running
+    document.getElementById('loading-fallback')?.remove();
 
     function popupHTML(properties) {
         let html = `<strong>${properties.name}</strong><br>`;
@@ -40,7 +49,7 @@
             const name = props.name || 'Unnamed';
             const url = props.url || '#';
             layer.bindPopup(popupHTML(feature.properties));
-            layer.bindTooltip(`${name}`);
+            layer.bindTooltip(name);
           }
         }).addTo(map);
       })
