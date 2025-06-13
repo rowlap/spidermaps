@@ -47,7 +47,6 @@
           onEachFeature: function (feature, layer) {
             const props = feature.properties;
             const name = props.name || 'Unnamed';
-            const url = props.url || '#';
             layer.bindPopup(popupHTML(feature.properties));
             layer.bindTooltip(name);
           }
