@@ -30,6 +30,10 @@
     // Remove the loading message now that Leaflet is running
     document.getElementById('loading-fallback')?.remove();
 
+    const canHover = window.matchMedia(
+      '(hover: hover) and (pointer: fine)'
+    )
+
     function popupHTML(properties) {
         let html = `<strong>${properties.name}</strong><br>`;
         html += `<a href="${properties.url}" target="_blank">View map</a>`;
@@ -48,7 +52,7 @@
             const props = feature.properties;
             const name = props.name || 'Unnamed';
             layer.bindPopup(popupHTML(feature.properties));
-            layer.bindTooltip(name);
+            if (canHover) {layer.bindTooltip(name);}
           }
         }).addTo(map);
       })
