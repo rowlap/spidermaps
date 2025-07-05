@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.33404676310300396,51.58001725293508]},"properties":{"name":"Harrow-on-the-hill","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/harrow-on-the-hill-a4-251123.pdf","borough":"Harrow"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.35968736062871765,51.60864106414626]},"properties":{"name":"Hatch End and Headstone Lane","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/hatch-end-and-headstone-lane-a4-0518.pdf","borough":"Harrow"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.3182578633530802,51.5785214982753]},"properties":{"name":"Northwick Park and Kenton station","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/northwick-park-and-kenton-a4.pdf","borough":"Harrow"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.3356306833922856,51.55741763999505]},"properties":{"name":"Sudbury Hill","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/sudbury-hill-a4.pdf","borough":"Harrow"}}
+]}

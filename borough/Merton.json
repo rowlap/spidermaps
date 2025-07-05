@@ -1,0 +1,7 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.17944695469489846,51.41697305689592]},"properties":{"name":"Colliers Wood and Merton Abbey","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/colliers-wood-and-merton-abbey-a4-020324.pdf","borough":"Merton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.20909625010998542,51.41095765731615]},"properties":{"name":"Merton Park and Wimbledon Chase","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/merton-park-and-wimbledon-chase-a4.pdf","borough":"Merton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.24169544005198543,51.401386575727784]},"properties":{"name":"New Malden (Shannon Corner)","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/new-malden-shannon-corner-a4.pdf","borough":"Merton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.22848645048563995,51.409435065602125]},"properties":{"name":"Raynes Park","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/raynes-park-a4.pdf","borough":"Merton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.20733418705334494,51.40273401591371]},"properties":{"name":"South Merton","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/south-merton-a4.pdf","borough":"Merton"}}
+]}
