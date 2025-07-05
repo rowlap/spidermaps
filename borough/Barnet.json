@@ -1,0 +1,10 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.1412810348381915,51.616830964402325]},"properties":{"name":"Arnos Grove and New Southgate","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/arnos-grove-and-new-southgate-a4-091223.pdf","borough":"Barnet"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.20089239468442396,51.65316289605789]},"properties":{"name":"Barnet High Street","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/barnet-high-street-a4-040223.pdf","borough":"Barnet"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.21275471729580736,51.65274041536254]},"properties":{"name":"Barnet Hospital","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/barnet-hospital-a4-040223.pdf","borough":"Barnet"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.2183801,51.5767595]},"properties":{"name":"Brent Cross","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/brent-cross-a4-170224.pdf","borough":"Barnet"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.2748497351066043,51.60697563169975]},"properties":{"name":"Edgware Community Hospital","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/edgware-community-hospital-a4-290423.pdf","borough":"Barnet"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.2459688289550757,51.600879906902954]},"properties":{"name":"Grahame Park and RAF Museum, Hendon","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/grahame-park-and-raf-museum-hendon-a4-010723.pdf","borough":"Barnet"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.20783678291677266,51.606172605339765]},"properties":{"name":"Mill Hill East","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/mill-hill-east-a4.pdf","borough":"Barnet"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.17664824255991995,51.61308417648191]},"properties":{"name":"North Finchley","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/north-finchley-a4.pdf","borough":"Barnet"}}
+]}

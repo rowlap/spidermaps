@@ -1,0 +1,10 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.19451861131137727,51.34411380523493]},"properties":{"name":"Belmont","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/belmont-a4-020324.pdf","borough":"Sutton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.16433825992166148,51.36686100675945]},"properties":{"name":"Carshalton","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/carshalton-a4-190823.pdf","borough":"Sutton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.15555110865551516,51.3794735886878]},"properties":{"name":"Hackbridge","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/hackbridge-a4.pdf","borough":"Sutton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.22088527955637943,51.37769891652313]},"properties":{"name":"St Anthony's Hospital (North Cheam)","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/st-anthonys-hospital-north-cheam-a4-020324.pdf","borough":"Sutton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.1900616364192833,51.384366099851086]},"properties":{"name":"St. Helier Hospital and Rose Hill","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/st-helier-hospital-and-rose-hill-a4-020324.pdf","borough":"Sutton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.19207554155379714,51.3612742949312]},"properties":{"name":"Sutton","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/sutton-a4.pdf","borough":"Sutton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.20553331841902647,51.366033319152805]},"properties":{"name":"West Sutton","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/west-sutton.pdf","borough":"Sutton"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.2441197609211256,51.38014908426671]},"properties":{"name":"Worcester Park","url":"https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/worcester-park-a4-020324.pdf","borough":"Sutton"}}
+]}
