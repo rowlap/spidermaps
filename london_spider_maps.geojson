@@ -56,21 +56,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.17187974412272256,
-          51.52498340964753
-        ]
-      },
-      "properties": {
-        "name": "Rainham (Orchard Village)",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/rainham-orchard-village-a4.pdf",
-        "borough": "Barking & Dagenham"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.14124312854524912,
           51.581040687516385
         ]
@@ -78,21 +63,6 @@
       "properties": {
         "name": "Rose Lane Estate (Moby Dick)",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/rose-lane-estate-moby-dick-a4.pdf",
-        "borough": "Barking & Dagenham"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.17620532445248369,
-          51.56553155675725
-        ]
-      },
-      "properties": {
-        "name": "Rush Green (Romford)",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/rush-green-romford-a4.pdf",
         "borough": "Barking & Dagenham"
       }
     },
@@ -251,21 +221,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.12194787401682561,
-          51.491105632144674
-        ]
-      },
-      "properties": {
-        "name": "Abbey Wood",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/abbey-wood-a4-240224.pdf",
-        "borough": "Bexley"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.15827657622521252,
           51.467906197570905
         ]
@@ -363,21 +318,6 @@
       "properties": {
         "name": "Erith",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/erith-a4-140522.pdf",
-        "borough": "Bexley"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.07864222004802307,
-          51.45917292991361
-        ]
-      },
-      "properties": {
-        "name": "Falconwood",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/falconwood-a4.pdf",
         "borough": "Bexley"
       }
     },
@@ -491,21 +431,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2183801,
-          51.5767595
-        ]
-      },
-      "properties": {
-        "name": "Brent Cross",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/brent-cross-a4-170224.pdf",
-        "borough": "Brent"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.26549194832125717,
           51.56572260318326
         ]
@@ -543,21 +468,6 @@
       "properties": {
         "name": "College Park and Scrubs Lane",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/college-park-and-scrubs-lane-a4.pdf",
-        "borough": "Brent"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.3231713953014249,
-          51.579428773861
-        ]
-      },
-      "properties": {
-        "name": "Northwick Park and Kenton station",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/northwick-park-and-kenton-a4.pdf",
         "borough": "Brent"
       }
     },
@@ -987,22 +897,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.11138618361785291,
-          51.52344442996503
-        ]
-      },
-      "properties": {
-        "name": "Clerkenwell",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/clerkenwell-a4-170421.pdf",
-        "borough": "Camden",
-        "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/clerkenwell-night-a4-170421.pdf "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.11757475695182806,
           51.52601263396908
         ]
@@ -1043,21 +937,6 @@
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/euston-square-and-warren-street-a4-100721.pdf",
         "borough": "Camden",
         "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/euston-square-and-warren-street-night-a4-100721.pdf "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.10627340301611135,
-          51.52114226996065
-        ]
-      },
-      "properties": {
-        "name": "Farringdon",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/farringdon-a4-010522.pdf",
-        "borough": "Camden"
       }
     },
     {
@@ -1227,22 +1106,6 @@
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/aldgate-and-fenchurch-street-a4.pdf",
         "borough": "City of London",
         "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/aldgate-and-fenchurch-street-night-a4-310723.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.06712635671780129,
-          51.51490010141977
-        ]
-      },
-      "properties": {
-        "name": "Aldgate East",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/aldgate-east-a4-0622.pdf",
-        "borough": "City of London",
-        "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/aldgate-east-night-a4-0622.pdf "
       }
     },
     {
@@ -1493,21 +1356,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07850562383943381,
-          51.41997675175978
-        ]
-      },
-      "properties": {
-        "name": "Crystal Palace",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/crystal-palace-a4-290423.pdf",
-        "borough": "Croydon"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.024585449793273453,
           51.35187471215481
         ]
@@ -1628,21 +1476,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.024199402240373237,
-          51.37764594315278
-        ]
-      },
-      "properties": {
-        "name": "West Wickham",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/west-wickham-a4-030224.pdf",
-        "borough": "Croydon"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.2744547969320362,
           51.50837196203343
         ]
@@ -1748,21 +1581,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.268856522531813,
-          51.52973349547273
-        ]
-      },
-      "properties": {
-        "name": "Park Royal (Central Middlesex Hospital)",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/park-royal-central-middlesex-hospital-a4-0622.pdf",
-        "borough": "Ealing"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.31150128171864166,
           51.521271335003156
         ]
@@ -1800,36 +1618,6 @@
       "properties": {
         "name": "Southall Broadway",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/southall-broadway-and-station-a4-150723.pdf",
-        "borough": "Ealing"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.3136576,
-          51.5527579
-        ]
-      },
-      "properties": {
-        "name": "Sudbury",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/sudbury-a4.pdf",
-        "borough": "Ealing"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.33563570428639034,
-          51.55741683015484
-        ]
-      },
-      "properties": {
-        "name": "Sudbury Hill",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/sudbury-hill-a4.pdf",
         "borough": "Ealing"
       }
     },
@@ -2040,21 +1828,6 @@
       "properties": {
         "name": "Southgate (The Green and Broomfield Park)",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/southgate-the-green-and-broomfield-park-a4-131117.pdf",
-        "borough": "Enfield"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0681683388554108,
-          51.6055685065004
-        ]
-      },
-      "properties": {
-        "name": "Tottenham Hotspur Stadium",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/tottenham-hotspur-stadium-a4.pdf",
         "borough": "Enfield"
       }
     },
@@ -2289,37 +2062,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.019516987599203114,
-          51.552536929284386
-        ]
-      },
-      "properties": {
-        "name": "iCity and Lee Valley Hockey and Tennis Centre",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/icity-and-lee-valley-hockey-and-tennis-centre-a4-0717.pdf",
-        "borough": "Hackney"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0876263750390284,
-          51.525716684569886
-        ]
-      },
-      "properties": {
-        "name": "Old Street and Moorfields Eye Hospital",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/old-street-and-moorfields-eye-hospital-a4-0923.pdf",
-        "borough": "Hackney",
-        "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/old-street-and-moorfields-eye-hosp-night-a4.pdf "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.2192915679471392,
           51.483532681582204
         ]
@@ -2329,21 +2071,6 @@
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/charing-cross-hospital-a4.pdf",
         "borough": "Hammersmith & Fulham",
         "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/charing-cross-hospital-night-a4-290423.pdf "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.23733195726937875,
-          51.532200221693984
-        ]
-      },
-      "properties": {
-        "name": "College Park and Scrubs Lane",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/college-park-and-scrubs-lane-a4.pdf",
-        "borough": "Hammersmith & Fulham"
       }
     },
     {
@@ -2496,22 +2223,6 @@
         "name": "Crouch Hill and Stroud Green",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/crouch-hill-and-stroud-green-a4.pdf",
         "borough": "Haringey"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1064144,
-          51.5648345
-        ]
-      },
-      "properties": {
-        "name": "Finsbury Park",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/finsbury-park-a4.pdf",
-        "borough": "Haringey",
-        "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/finsbury-park-night-a4-0622.pdf"
       }
     },
     {
@@ -3239,21 +2950,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3976009711691078,
-          51.49737941604739
-        ]
-      },
-      "properties": {
-        "name": "Bulls Bridge",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/bulls-bridge-a4-0817.pdf",
-        "borough": "Hounslow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.39372660646069646,
           51.484402989238525
         ]
@@ -3291,21 +2987,6 @@
       "properties": {
         "name": "Gunnersbury",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/gunnersbury-a4-0322.pdf",
-        "borough": "Hounslow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.3786252887637371,
-          51.43652928739532
-        ]
-      },
-      "properties": {
-        "name": "Hampton (Apex Corner)",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/hampton-apex-corner-a4.pdf",
         "borough": "Hounslow"
       }
     },
@@ -3435,21 +3116,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.09735087080356862,
-          51.52007105002051
-        ]
-      },
-      "properties": {
-        "name": "Barbican",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/barbican-a4-010522.pdf",
-        "borough": "Islington"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.11138685031477652,
           51.52344060224219
         ]
@@ -3459,21 +3125,6 @@
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/clerkenwell-a4-170421.pdf",
         "borough": "Islington",
         "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/clerkenwell-night-a4-170421.pdf "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.11511427525070227,
-          51.5706462727594
-        ]
-      },
-      "properties": {
-        "name": "Crouch Hill and Stroud Green",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/crouch-hill-and-stroud-green-a4.pdf",
-        "borough": "Islington"
       }
     },
     {
@@ -3544,37 +3195,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.12238734519660832,
-          51.53074697901022
-        ]
-      },
-      "properties": {
-        "name": "King's Cross",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/kings-cross-a4-300121.pdf",
-        "borough": "Islington",
-        "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/kings-cross-night-a4-0622.pdf "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.08727797912146393,
-          51.52049379038287
-        ]
-      },
-      "properties": {
-        "name": "Moorgate",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/moorgate-a4.pdf",
-        "borough": "Islington"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.08813334422816892,
           51.52686145205827
         ]
@@ -3614,21 +3234,6 @@
       "properties": {
         "name": "Chelsea and Westminster Hospital",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/chelsea-and-westminster-hospital-a4.pdf",
-        "borough": "Kensington and Chelsea"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.14978911600313724,
-          51.48442464705307
-        ]
-      },
-      "properties": {
-        "name": "Chelsea Bridge and The Lister Hospital",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/chelsea-bridge-and-lister-hospital-a4.pdf",
         "borough": "Kensington and Chelsea"
       }
     },
@@ -3691,52 +3296,6 @@
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/kensington-high-street-a4-290423.pdf",
         "borough": "Kensington and Chelsea",
         "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/kensington-high-street-night-a4-290423.pdf "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.20687064984062506,
-          51.49627096826803
-        ]
-      },
-      "properties": {
-        "name": "Kensington Olympia",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/kensington-olympia-a4-290423.pdf",
-        "borough": "Kensington and Chelsea"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.16331445608870349,
-          51.499833254513014
-        ]
-      },
-      "properties": {
-        "name": "Knightsbridge",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/knightsbridge-a4.pdf",
-        "borough": "Kensington and Chelsea",
-        "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/knightsbridge-night-a4-290423.pdf "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1774058,
-          51.501007
-        ]
-      },
-      "properties": {
-        "name": "Royal Albert Hall",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/royal-albert-hall-a4-290423.pdf",
-        "borough": "Kensington and Chelsea"
       }
     },
     {
@@ -3828,21 +3387,6 @@
       "properties": {
         "name": "Chessington South and World of  Adventures",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/chessington-south-and-world-of-adventures-a4.pdf",
-        "borough": "Kingston"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.30709969128043896,
-          51.43008465379033
-        ]
-      },
-      "properties": {
-        "name": "Ham",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/ham-a4.pdf",
         "borough": "Kingston"
       }
     },
@@ -4048,36 +3592,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.09094850387370179,
-          51.46743309779781
-        ]
-      },
-      "properties": {
-        "name": "Denmark Hill and Champion Hill Estate",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/denmark-hill-and-champion-hill-estate-a4-0622.pdf",
-        "borough": "Lambeth"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.10132855633303446,
-          51.4525615170179
-        ]
-      },
-      "properties": {
-        "name": "Herne Hill",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/herne-hill-a4-290423.pdf",
-        "borough": "Lambeth"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.11228609899606688,
           51.48197118808303
         ]
@@ -4094,21 +3608,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.09271475579835735,
-          51.46979602377997
-        ]
-      },
-      "properties": {
-        "name": "King's College Hospital (Denmark Hill)",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/kings-college-hospital-a4.pdf",
-        "borough": "Lambeth"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.11025840517983124,
           51.496755121253706
         ]
@@ -4118,21 +3617,6 @@
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/lambeth-north-a4.pdf",
         "borough": "Lambeth",
         "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/lambeth-north-night-a4.pdf "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.13528712875131846,
-          51.47757164962315
-        ]
-      },
-      "properties": {
-        "name": "Nine Elms and New Covent Garden Market",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/nine-elms-and-new-covent-garden-market-a4.pdf",
-        "borough": "Lambeth"
       }
     },
     {
@@ -4195,21 +3679,6 @@
       "properties": {
         "name": "Catford East",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/catford-east-a4.pdf",
-        "borough": "Lewisham"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.022789940033045377,
-          51.47630070962132
-        ]
-      },
-      "properties": {
-        "name": "Deptford",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/deptford-a4-300923.pdf",
         "borough": "Lewisham"
       }
     },
@@ -4362,21 +3831,6 @@
       "properties": {
         "name": "Merton Park and Wimbledon Chase",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/merton-park-and-wimbledon-chase-a4.pdf",
-        "borough": "Merton"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.24169544005198543,
-          51.401386575727784
-        ]
-      },
-      "properties": {
-        "name": "New Malden (Shannon Corner)",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/new-malden-shannon-corner-a4.pdf",
         "borough": "Merton"
       }
     },
@@ -4941,21 +4395,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3889243010305397,
-          51.44078978876763
-        ]
-      },
-      "properties": {
-        "name": "Hanworth Air Park Leisure Centre",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/hanworth-air-park-leisure-centre-a4.pdf",
-        "borough": "Richmond"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.28760881323139703,
           51.48891384335251
         ]
@@ -5047,21 +4486,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0785074824355443,
-          51.41997390259161
-        ]
-      },
-      "properties": {
-        "name": "Crystal Palace",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/crystal-palace-a4-290423.pdf",
-        "borough": "Southwark"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.0868718262710179,
           51.46509632238138
         ]
@@ -5115,21 +4539,6 @@
       "properties": {
         "name": "Herne Hill",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/herne-hill-a4-290423.pdf",
-        "borough": "Southwark"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.057538094465444875,
-          51.45031171576688
-        ]
-      },
-      "properties": {
-        "name": "Honor Oak",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/honor-oak-a4-090119.pdf",
         "borough": "Southwark"
       }
     },
@@ -5365,22 +4774,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07532069608242822,
-          51.51401822418015
-        ]
-      },
-      "properties": {
-        "name": "Aldgate and Fenchurch Street",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/aldgate-and-fenchurch-street-a4.pdf",
-        "borough": "Tower Hamlets",
-        "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/aldgate-and-fenchurch-street-night-a4-310723.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.07066937768929753,
           51.51563704364963
         ]
@@ -5464,21 +4857,6 @@
       "properties": {
         "name": "Stepney Green",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/stepney-green-a4.pdf",
-        "borough": "Tower Hamlets"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.07453636658008948,
-          51.509922329822416
-        ]
-      },
-      "properties": {
-        "name": "Tower of London",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/tower-of-london-a4.pdf",
         "borough": "Tower Hamlets"
       }
     },
@@ -5660,21 +5038,6 @@
       "properties": {
         "name": "Battersea Park",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/battersea-park-a4.pdf",
-        "borough": "Wandsworth"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1497976713948615,
-          51.48440499991789
-        ]
-      },
-      "properties": {
-        "name": "Chelsea Bridge and The Lister Hospital",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/chelsea-bridge-and-lister-hospital-a4.pdf",
         "borough": "Wandsworth"
       }
     },
@@ -5932,21 +5295,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1606652951675507,
-          51.53911063621024
-        ]
-      },
-      "properties": {
-        "name": "London Zoo and Primrose Hill",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/london-zoo-and-primrose-hill-a4-0518.pdf",
-        "borough": "Westminster"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.15901310615282463,
           51.51294669871646
         ]
@@ -6033,22 +5381,6 @@
         "name": "St John's Wood",
         "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/st-johns-wood-a4-170224.pdf",
         "borough": "Westminster"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.13036883216000805,
-          51.51641598045682
-        ]
-      },
-      "properties": {
-        "name": "Tottenham Court Road",
-        "url": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/tottenham-court-road-a4-300923.pdf",
-        "borough": "Westminster",
-        "url_night": "https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/tottenham-court-road-night-a4-300923.pdf "
       }
     },
     {
