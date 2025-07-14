@@ -26,8 +26,11 @@
 
     // Add OpenStreetMap tile layer
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors'
+      attribution: 'Map data from <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
+
+    // add link to project
+    map.attributionControl.addAttribution('About <a href="./">Spider Maps</a>');
 
     // Remove the loading message now that Leaflet is running
     document.getElementById('loading-fallback')?.remove();
