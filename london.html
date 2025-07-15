@@ -39,7 +39,9 @@
 
     const canHover = window.matchMedia(
       '(hover: hover) and (pointer: fine)'
-    )
+    ).matches;
+
+    if (canHover) { console.info("This browser claims to support hover and fine pointer"); }
 
     function popupHTML(properties) {
         let html = `<strong>${properties.name}</strong><br>`;
