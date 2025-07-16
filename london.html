@@ -5,6 +5,9 @@
   <title>🕷️ London Bus Spider Map Viewer</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
   <style>
     body { margin: 0; }
     #map { height: 100vh; }
@@ -20,11 +23,14 @@
     </span>
   </div>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
   <script>
     "use strict";
 
     // Initialize map centered on London
     const map = L.map('map').setView([51.5074, -0.1278], 11);
+    const markers = L.markerClusterGroup({maxClusterRadius: 30});
 
     // Add OpenStreetMap tile layer
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -63,9 +69,10 @@
             layer.bindPopup(popupHTML(feature.properties));
             if (canHover) {layer.bindTooltip(name);}
           }
-        }).addTo(map);
+        }).addTo(markers);
       })
       .catch(error => console.error('Error loading GeoJSON:', error));
+    map.addLayer(markers);
   </script>
 </body>
 </html>
